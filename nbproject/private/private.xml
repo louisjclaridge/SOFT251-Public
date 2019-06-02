@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/Objects/Feedback.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>115</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/SOFT251/SOFT251/web/secretaryPanel.jsp</file>
+            <file>file:/F:/SOFT251/SOFT251/web/patientPanel.jsp</file>
+            <file>file:/F:/SOFT251/SOFT251/src/java/Serverlets/requestAppointment.java</file>
+            <file>file:/F:/SOFT251/SOFT251/web/login.jsp</file>
+            <file>file:/F:/SOFT251/SOFT251/src/java/Serverlets/CreateUser.java</file>
+            <file>file:/F:/SOFT251/SOFT251/src/java/Serverlets/removeAccounts.java</file>
+            <file>file:/F:/SOFT251/SOFT251/src/java/Serverlets/orderMedicine.java</file>
+            <file>file:/F:/SOFT251/SOFT251/web/adminPanel.jsp</file>
+            <file>file:/F:/SOFT251/SOFT251/web/doctorPanel.jsp</file>
+            <file>file:/F:/SOFT251/SOFT251/src/java/Serverlets/Login.java</file>
+        </group>
+    </open-files>
+</project-private>
